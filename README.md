@@ -11,7 +11,7 @@ Developed By
         R.Sathasivam
         G.Sivanantham
         
-        Builds
+Builds
 ------
 
 .. image:: https://travis-ci.org/Tendrl/commons.svg?branch=master
