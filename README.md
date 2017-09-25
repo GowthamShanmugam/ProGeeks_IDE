@@ -11,4 +11,14 @@ Developed By
         R.Sathasivam
         G.Sivanantham
         
-        |Build status| |Coverage|
+        Builds
+------
+
+.. image:: https://travis-ci.org/Tendrl/commons.svg?branch=master
+  :target: https://travis-ci.org/Tendrl/commons
+
+Code Coverage
+-------------
+
+.. image:: https://codecov.io/gh/Tendrl/commons/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/Tendrl/commons
